@@ -2,3 +2,6 @@
 .env
 dep
 lambda_artifact.zip
+*.pyc
+*.pyo
+venv/
