@@ -1,0 +1,4 @@
+**/__pycache__/
+.env
+dep
+lambda_artifact.zip
