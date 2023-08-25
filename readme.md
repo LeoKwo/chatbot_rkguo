@@ -1,5 +1,5 @@
 ## Chatbot with API for Ruikang Guo
-Context: 02.08.2023 Ruikang Guo resume
+Context: Ruikang Guo resume 2023.08.03
 #### Dependencies
 ```
 pip install fastapi uvicorn[standard] llama_index openai
